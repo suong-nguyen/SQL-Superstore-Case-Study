@@ -37,7 +37,17 @@ In this step we create query to answer the following questions
 -- What percentage of orders is associated with each shipment type?
 -- List orders that have not been shipped on time/late/early.
 
-3.5. Identify factors affecting profit - PENDING
- 
+3.5. Identify factors affecting profit
+-- Calculates basic descriptive statistics for the 'Profit'.
+-- Analyzes profitability trends over time, aggregating profits by year. 
+-- Analyzes profitability by customer segment. 
+-- Analyzes profitability by product category. 
+-- Analyzes profitability by location (region).
+-- Time-Series Analysis with Moving Averages
+-- Segment-Wise Contribution to Profitability
+-- Where is the least/most profitable product subcategory shipped the most?
+-- Who are the top 5 and bottom customers based on profit
+-- Who buy the most/least profitable product ?
+
 
 */
